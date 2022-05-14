@@ -1,7 +1,7 @@
 # EE C249B Project
 
 ## Data Cleaning and Component Selection
-Very briefly, there are two parts to this repo. The first part is the importing and cleaning of data directly downloaded from DigiKey (https://www.digikey.com/) for given components. This required the use of regex expressions to do some calculations for quantities such as volume and energy density, particularrly when these quantities are not directly provided. Furthermore, code for importing full folders of csv files is included, as this made it possible to avoid doing many manual changes in Excel. volumecalc_ceram() and energy_density() are used to calculate the volume of the capacitor/inductor and energy density of the capacitor respectively. The data I used is included in appropriate folders. This data makes it possible to choose components.  
+Very briefly, there are two parts to this repo. The first part is the importing and cleaning of data directly downloaded from DigiKey (https://www.digikey.com/) for given components. This required the use of regex expressions to do some calculations for quantities such as volume and energy density, particularly when these quantities are not directly provided. Furthermore, code for importing full folders of csv files is included, as this made it possible to avoid doing many manual changes in Excel. volumecalc_ceram() and energy_density() are used to calculate the volume of the capacitor/inductor and energy density of the capacitor respectively. The data I used is included in appropriate folders. This data makes it possible to choose components.  
 
 The data cleaning can be summarized as 
 * Importing the data from a folder of downloaded DigiKey data.
