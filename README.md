@@ -22,6 +22,7 @@ The next part of the project is the optimization.
 
 To provide some more details, the number of capacitors in parallel in particular must be found, as they determine both the loss and the volume of the overall converter. Furthermore, they dictate the voltage across C2.   In the initialization of the function we set there to be two objectives (loss and volume), 1 constraint, and then lower and upper bounds of 1000uF and 200uF. In the ```evaluate``` function we define the capacitors as ```C1 = x[0]*2000e-6``` and ```C2 = x[1]*1000e-6```. Our lower bounds in the class initialization are thus 0.5 and 0.2 respectively.
 
+
 After generating the objective functions ```f1``` and ```f2``` we can optimize them both! As there are two objectives to be minimized, we use NGSA-II. We use 200 generations. 
 ```
 Generations =200
@@ -45,8 +46,8 @@ res = minimize(problem,
 X = res.X
 F = res.F
 ```
-Doing the optimization results in a Pareto front generated. We find that the selected components produce results between 8cm^3 -19cm^3 of volume and  and 3 - 8W of loss.
+Doing the optimization results in a Pareto front generated. We find that the selected components produce results between 8cm^3 -19cm^3 of volume and  and 1.5-5W of losses.
 
-<img width="1004" alt="Screen Shot 2022-05-14 at 4 09 53 PM" src="https://user-images.githubusercontent.com/49104657/168450878-0d1aa482-b979-4fc4-847b-fc74a8c7b80c.png">
+<img width="870" alt="Screen Shot 2022-05-15 at 8 39 31 AM" src="https://user-images.githubusercontent.com/49104657/168481192-81ba73ea-bad3-415c-8703-bcd06718aeb6.png">
 
 
