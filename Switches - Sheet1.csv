@@ -1,0 +1,83 @@
+Manufacturer,Part Number,Voltage Rating (V),Current Rating (A),Coss (pF),"Rds,on (mOHms)",Qg (nC),Length (mm),Width (mm),Height (mm),Volume (mm^3),Price ($) ,Link,"FOM 1: (Coss*Rds,on*Volume"
+GaN Systems,GS61004B,100,38,110,16,3.3,4.6,4.4,0.51,10.32,5.32,https://gansystems.com/wp-content/uploads/2020/04/GS61004B-DS-Rev-200402.pdf,1760
+GaN Systems,GS61008B,100,90,250,7,8,7.6,4.6,0.51,17.83,9.03,https://gansystems.com/wp-content/uploads/2020/09/GS61008P-DS-Rev-200402.pdf,1750
+GaN Systems,GS61008T,100,90,250,7,8,7,4,0.54,15.12,9.03,https://gansystems.com/wp-content/uploads/2020/04/GS61008T-DS-Rev-200402.pdf,1750
+GaN Systems,GS-065-004-1-L,650,4,7,450,0.8,5,6,0.85,25.50,2.19,https://gansystems.com/wp-content/uploads/2021/04/GS-065-004-1-L-DS-Rev-210322.pdf,3150
+GaN Systems,GS-065-008-1-L,650,8,14,225,1.5,5,6,0.85,25.50,2.62,https://gansystems.com/wp-content/uploads/2021/12/GS-065-008-1-L-DS-Rev-210104.pdf,3150
+GaN Systems,GS-065-011-1-L,650,11,20,150,2.2,8,8,0.9,57.60,5.02,https://gansystems.com/wp-content/uploads/2021/09/GS-065-011-1-L-DS-Rev-210914.pdf,3000
+GaN Systems,GS-065-011-2-L,650,11,20,150,2.2,8,8,0.9,57.60,3.5,https://gansystems.com/wp-content/uploads/2021/08/GS-065-011-2-L-DS-Rev-210714.pdf,3000
+GaN Systems,GS-065-030-2-L,650,30,60,50,6.7,8,8,0.9,57.60,10.1,https://gansystems.com/wp-content/uploads/2021/08/GS-065-030-2-L-DS-Rev-210630.pdf,3000
+GaN Systems,GS66502B,650,7.5,17,200,1.6,5,6.6,0.51,16.83,9.09,https://gansystems.com/wp-content/uploads/2020/04/GS66502B-DS-Rev-200402.pdf,3400
+GaN Systems,GS66504B,650,15,31,100,3.3,5,6.6,0.51,16.83,10.76,https://gansystems.com/wp-content/uploads/2020/04/GS66504B-DS-Rev-200402.pdf,3100
+GaN Systems,GS66506T,650,22.5,49,67,4.5,5.6,4.5,0.54,13.61,13.18,https://gansystems.com/wp-content/uploads/2020/04/GS66506T-DS-Rev-200402.pdf,3283
+GaN Systems,GS66508B,650,30,65,50,6.1,7,8.4,0.51,29.99,15.98,https://gansystems.com/wp-content/uploads/2020/04/GS66508B-DS-Rev-200402.pdf,3250
+GaN Systems,GS66508P,650,30,65,50,6.1,10,8.7,0.51,44.37,9.03,https://gansystems.com/wp-content/uploads/2019/05/GS66508P-DS-Rev-190524.pdf,3250
+GaN Systems,GS66508T,650,30,65,50,6.1,7,4.5,0.54,17.01,15.98,https://gansystems.com/wp-content/uploads/2020/04/GS66508T-DS-Rev-200402.pdf,3250
+GaN Systems,GS-065-060-5-B-A,650,60,127,25,14,11,9,0.63,62.37,,https://gansystems.com/wp-content/uploads/2021/12/GS-065-060-5-B-A-DS-Rev-211025.pdf,3175
+GaN Systems,GS-065-060-5-T-A,650,60,127,25,14,9,7.6,0.69,47.20,,https://gansystems.com/wp-content/uploads/2022/01/GS-065-060-5-T-A-DS-Rev-220127.pdf,3175
+GaN Systems,GS-065-060-3-B,650,60,127,25,14,11,9,0.45,44.55,26.25,https://gansystems.com/wp-content/uploads/2022/03/GS-065-060-3-B-DS-Rev-220131.pdf,3175
+GaN Systems,GS66516B,650,60,126,25,14.2,11,9,0.54,53.46,36.05,https://gansystems.com/wp-content/uploads/2021/12/GS66516B-DS-Rev-211025.pdf,3150
+GaN Systems,GS-065-060-3-T,650,60,127,25,14,9.2,7.8,0.49,35.16,24.93,https://gansystems.com/wp-content/uploads/2022/03/GS-065-060-3-T-DS-Rev-220209.pdf,3175
+GaN Systems,GS66516T,650,60,126,25,14.2,9,7.6,0.54,36.94,35.54,https://gansystems.com/wp-content/uploads/2021/10/GS66516T-DS-Rev-210727.pdf,3150
+EPC,EPC2040,15,3.4,67,24,0.745,0.85,1.2,0.815,0.83,0.8096,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2040_datasheet.pdf,1608
+EPC,EPC2216,15,3.4,66,20,0.87,0.85,1.2,0.86,0.88,0.9614,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2216_datasheet.pdf,1320
+EPC,EPC8004,40,4,23,80,0.37,2.05,0.85,0.815,1.42,2.2961,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC8004_datasheet.pdf,1840
+EPC,EPC2014C,40,10,150,12,2,1.7,1.1,0.815,1.52,1.1183,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2014C_datasheet.pdf,1800
+EPC,EPC2015C,40,53,710,3.2,8.7,4.1,1.6,0.815,5.35,3.5607,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2015C_datasheet.pdf,2272
+EPC,EPC2055,40,29,408,3,6.6,2.5,1.5,0.638,2.39,1.9213,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/epc2055_datasheet.pdf,1224
+EPC,EPC2069,40,80,1044,1.6,12.5,3.25,3.25,0.638,6.74,3.904,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2069_datasheet.pdf,1670.4
+EPC,EPC2024,40,90,1620,1.2,18,6.05,2.3,0.785,10.92,5.737,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2024_datasheet.pdf,1944
+EPC,EPC2035,60,1.7,60,35,0.88,0.9,0.9,0.815,0.66,0.65,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2035_datasheet.pdf,2100
+EPC,EPC2020,60,90,1020,1.5,16,6.05,2.3,0.785,10.92,5.8153,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2020_datasheet.pdf,1530
+EPC,EPC8002,65,2,6.7,380,0.133,2.05,0.85,0.815,1.42,2.1879,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC8002_datasheet.pdf,2546
+EPC,EPC8009,65,4,19,90,0.37,2.05,0.85,0.815,1.42,1.3166,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC8009_datasheet.pdf,1710
+EPC,EPC2203,80,1.7,47,53,0.67,0.9,0.9,0.685,0.55,0.6325,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2203_datasheet.pdf,2491
+EPC,EPC2039,80,6.8,115,20,1.91,1.35,1.35,0.815,1.49,1.1385,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2039_datasheet.pdf,2300
+EPC,EPC2214,80,10,129,15,1.8,1.35,1.35,0.805,1.47,1.2184,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2214_datasheet.pdf,1935
+EPC,EPC2202,80,18,230,12,3.2,2.1,1.6,0.815,2.74,2.2024,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2202_datasheet.pdf,2760
+EPC,EPC2065,80,60,534,2.7,9.4,3.5,1.95,0.638,4.35,2.574,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2065_datasheet.pdf,1441.8
+EPC,EPC2029,80,48,820,2.5,13,4.6,2.6,0.79,9.45,5.0125,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2029_datasheet.pdf,2050
+EPC,EPC2206,80,90,1100,1.8,15,6.05,2.3,0.795,11.06,4.719,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2206_datasheet.pdf,1980
+EPC,EPC2021,80,90,1100,1.8,15,6.05,2.3,0.785,10.92,5.9132,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2021_datasheet.pdf,1980
+EPC,EPC2037,100,1.7,6.5,400,0.115,0.9,0.9,0.815,0.66,0.9361,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2037_datasheet.pdf,2600
+EPC,EPC8010,100,4,25,120,0.36,2.05,0.85,0.815,1.42,1.4761,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC8010_datasheet.pdf,3000
+EPC,EPC2036,100,1.7,50,62,0.7,0.9,0.9,0.625,0.51,0.5649,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2036_datasheet.pdf,3100
+EPC,EPC2007C,100,6,110,24,1.6,1.7,1.1,0.815,1.52,1.5464,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2007C_datasheet.pdf,2640
+EPC,EPC2051,100,1.7,86,20,1.8,0.85,1.3,0.685,0.76,0.9614,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2051_datasheet.pdf,1720
+EPC,EPC2070,100,1.7,82,18,1.9,0.85,1.3,0.618,0.68,1.1132,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2070_datasheet.pdf,1476
+EPC,EPC2016C,100,18,210,12,3.4,2.1,1.6,0.815,2.74,1.7587,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2016C_datasheet.pdf,2520
+EPC,EPC2212,100,18,238,10,3.2,2.1,1.6,0.815,2.74,2.1556,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2212_datasheet.pdf,2380
+EPC,EPC2052,100,8.2,195,10,3.5,1.5,1.5,0.885,1.99,1.2397,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2052_datasheet.pdf,1950
+EPC,EPC2045,100,16,295,5.6,6,2.5,1.5,0.885,3.32,1.4995,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2045_datasheet.pdf,1652
+EPC,EPC2001C,100,36,430,5.6,7.5,4.1,1.6,0.815,5.35,3.4534,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2001C_datasheet.pdf,2408
+EPC,EPC2204,100,29,304,4.4,5.7,2.5,1.5,0.638,2.39,1.8041,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2204_datasheet.pdf,1337.6
+EPC,EPC2053,100,48,642,3.1,11.4,3.5,2,0.885,6.20,2.4453,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2053_datasheet.pdf,1990.2
+EPC,EPC2032,100,48,800,3,12,4.6,2.6,0.79,9.45,5.1104,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2032_datasheet.pdf,2400
+EPC,EPC2022,100,90,840,2.4,13.2,6.05,2.3,0.785,10.92,6.03,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2022_datasheet.pdf,2016
+EPC,EPC2218,100,60,562,2.4,10.5,3.5,1.95,0.638,4.35,3.3248,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2218_datasheet.pdf,1348.8
+EPC,EPC2302,100,101,1000,1.4,23,3,5,0.65,9.75,6.5,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/epc2302_datasheet.pdf,1400
+EPC,EPC2033,150,48,480,5,12,4.6,1.6,0.79,5.81,6.1677,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2033_datasheet.pdf,2400
+EPC,EPC2059,170,24,267,6.8,5.7,2.8,1.4,0.638,2.50,2.5311,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2059_datasheet.pdf,1815.6
+EPC,EPC2012C,200,5,64,70,1,1.7,0.9,0.815,1.25,1.9916,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2012C_datasheet.pdf,4480
+EPC,EPC2054,200,3,89,32,2.9,1.3,1.3,0.638,1.08,1.2184,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2054_datasheet.pdf,2848
+EPC,EPC2019,200,8.5,1.3,22,2.4,2.77,0.95,0.815,2.14,2.7027,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2019_datasheet.pdf,28.6
+EPC,EPC2010C,200,22,240,18,3.7,3.6,1.6,0.815,4.69,4.8262,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2010C_datasheet.pdf,4320
+EPC,EPC2207,200,14,130,15,4.5,2.8,0.925,0.638,1.65,2.3595,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2207_datasheet.pdf,1950
+EPC,EPC2034,200,48,450,7,8.8,3.6,2.6,0.79,7.39,6.3439,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2034_datasheet.pdf,3150
+EPC,EPC2034C,200,48,641,6,11.4,4.6,2.6,0.79,9.45,5.6782,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2034C_datasheet.pdf,3846
+EPC,EPC2215,200,32,390,6,13.6,4.6,1.6,0.638,4.70,4.5045,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2215_datasheet.pdf,2340
+EPC,EPC2050,350,6.3,81,55,2.8,1.95,1.95,0.638,2.43,4.2471,https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2050_datasheet.pdf,4455
+Infineon,IGOT60R070D1AUMA3,600,31,72,55,5.8,13.7,11,3.5,527.45,17.431,https://www.infineon.com/dgdl/Infineon-IGOT60R070D1-DataSheet-v02_13-EN.pdf?fileId=5546d46265f064ff016685fa65066523,3960
+Infineon,IGT60R070D1ATMA4,600,31,72,55,5.8,11.675,9.9,2.3,265.84,21.9598,https://www.infineon.com/dgdl/Infineon-IGT60R070D1-DataSheet-v02_13-EN.pdf?fileId=5546d46265f064ff016686028dd56526,3960
+Infineon,IGLD60R070D1AUMA3,600,15,72,55,5.8,8,8,1.35,86.40,21.9492,https://www.infineon.com/dgdl/Infineon-IGLD60R070D1-DataSheet-v02_12-EN.pdf?fileId=5546d46265f064ff016685f03f056511,3960
+Transform,TP65H480G4JSG-TR,650,3.6,9,480,9,5,6,1,30.00,2.69,https://www.mouser.com/datasheet/2/970/datasheet_tp65h480g4jsg_20210323-1920428.pdf,4320
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Cambridge,CGD65A055S2,650,27,,55,,,,,,,need to get datasheets by email >:(,https://camgandevices.com/p/products/
+Cambridge,CGD65A130S2,650,12,,130,,,,,,,need to get datasheets by email >:(,
+Cambridge,CGD65B130S2,650,12,,130,,,,,,,need to get datasheets by email >:(,
+Cambridge,CGD65B200S2,650,8.5,,200,,,,,,,need to get datasheets by email >:(,
